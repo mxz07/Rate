@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rate</string>
+    <string name="imputNum_hint">Input RMB</string>
+    <string name="hello_text">Hello</string>
+    <string name="btn_dollar">dollar</string>
+    <string name="btn_euro">euro</string>
+    <string name="btn_won">won</string>
+    <string name="btn_config">config</string>
+    <string name="menu_setting_lable">settings</string>
+</resources>
